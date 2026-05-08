@@ -68,11 +68,17 @@
 > Java application for handling course registration and recovery processes.
 
 ---
-# 📊 GitHub Stats
+## 🔥 GitHub Streak
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mollex-886&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mollex-886&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mollex-886&layout=compact&theme=tokyonight)
+---
+
+## 📈 GitHub Summary
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mollex-886&theme=tokyonight)
 
 ---
 
