@@ -68,15 +68,12 @@
 > Java application for handling course registration and recovery processes.
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mollex-886&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mollex-886&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mollex-886&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mollex-886&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 ---
