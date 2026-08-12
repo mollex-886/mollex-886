@@ -26,7 +26,7 @@ Second-year Cybersecurity student focused on security operations, incident respo
 
 ### Featured Project
 
-**[PasswordChecker](https://github.com/mollex-886)** — C#
+**[PasswordChecker](https://github.com/mollex-886/PasswordChecker)** — C#
 
 Modular static analysis tool that evaluates password security using entropy calculation, NIST guidelines, and real-world breach intelligence, rather than outdated complexity rules.
 
